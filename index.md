@@ -67,7 +67,7 @@ System design is a crucial skill for building scalable and reliable software sys
    - Master CI/CD pipelines using tools like Jenkins, GitLab CI, or AWS CodePipeline.
    - Learn about GitOps and Infrastructure as Code (IaC) for automated infrastructure management.
 
-## 14. [**Stay Updated and Experiment**]
+## 14. **Stay Updated and Experiment**
 
    - Stay current with emerging technologies by following tech blogs, attending conferences, and participating in online communities.
    - Continuously experiment with new tools and frameworks to broaden your expertise.
