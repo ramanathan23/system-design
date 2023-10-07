@@ -22,52 +22,52 @@ System design is a crucial skill for building scalable and reliable software sys
    - Familiarize yourself with cloud platforms such as AWS, Azure, and Google Cloud.
    - Learn about managed services like AWS Lambda, AWS Fargate, and Azure Functions.
 
-## 5. [**Security in Modern Systems **](./security-in-modern-systems.md)
+## 5. [**Security in Modern Systems**](./security-in-modern-systems.md)
 
    - Explore security best practices for cloud-native applications, including identity and access management (IAM) and encryption.
    - Understand container security and continuous security monitoring.
 
-## 6. [**API Design and GraphQL **](./api-design-and-graphql.md)
+## 6. [**API Design and GraphQL**](./api-design-and-graphql.md)
 
    - Master RESTful API design principles.
    - Explore GraphQL as an alternative API design approach and understand its benefits and use cases.
 
-## 7. [**Real-Time Communication **](./real-time-communication.md)
+## 7. [**Real-Time Communication**](./real-time-communication.md)
 
    - Learn about WebSockets and real-time communication protocols for modern applications.
    - Understand how to implement real-time features in microservices architectures.
 
-## 8. [**Streaming Data Processing **](./stream-data-processing.md)
+## 8. [**Streaming Data Processing**](./stream-data-processing.md)
 
    - Study stream processing frameworks like Apache Kafka and Apache Flink.
    - Learn how to build real-time data pipelines for analytics and event-driven applications.
 
-## 9. [**Machine Learning Integration **](./machine-learning-integration.md)
+## 9. [**Machine Learning Integration**](./machine-learning-integration.md)
 
    - Familiarize yourself with machine learning models and frameworks.
    - Explore how to integrate machine learning into your system design for recommendation engines and predictive analytics.
 
-## 10. [**Serverless Computing **](./serverless-computing.md)
+## 10. [**Serverless Computing**](./serverless-computing.md)
 
    - Understand the concepts of serverless computing and its advantages.
    - Learn how to design and deploy serverless applications using platforms like AWS Lambda and Azure Functions.
 
-## 11. [**Monitoring and Observability **](./monitoring-observability.md)
+## 11. [**Monitoring and Observability**](./monitoring-observability.md)
 
    - Explore monitoring and observability tools like Prometheus, Grafana, and Jaeger.
    - Learn how to set up dashboards and alerts for proactive system management.
 
-## 12. [**Chaos Engineering **](./chaos-engineering.md)
+## 12. [**Chaos Engineering**](./chaos-engineering.md)
 
    - Study the principles of chaos engineering and how to perform chaos experiments.
    - Understand how chaos engineering can improve system resilience.
 
-## 13. [**Continuous Integration and Deployment (CI/CD) **](./ci-cd.md)
+## 13. [**Continuous Integration and Deployment (CI/CD)**](./ci-cd.md)
 
    - Master CI/CD pipelines using tools like Jenkins, GitLab CI, or AWS CodePipeline.
    - Learn about GitOps and Infrastructure as Code (IaC) for automated infrastructure management.
 
-## 14. [**Stay Updated and Experiment **]
+## 14. [**Stay Updated and Experiment**]
 
    - Stay current with emerging technologies by following tech blogs, attending conferences, and participating in online communities.
    - Continuously experiment with new tools and frameworks to broaden your expertise.
