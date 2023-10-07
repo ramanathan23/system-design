@@ -1,0 +1,25 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - api-design-and-graphql.md        
+  - monitoring-observability.md
+  - chaos-engineering.md             
+  - readme.md
+  - ci-cd.md                         
+  - real-time-communication.md
+  - cloud-native-services.md         
+  - roadmap.md
+  - _config.yml                      
+  - sample-use-case.md
+  - database-technologies.md         
+  - scalability-and-performance.md
+  - distributed-systems.md           
+  - security-in-modern-systems.md
+  - LICENSE                          
+  - serverless-computing.md
+  - machine-learning-integration.md  
+  - stream-data-processing.md
+
