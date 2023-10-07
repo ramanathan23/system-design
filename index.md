@@ -72,4 +72,6 @@ System design is a crucial skill for building scalable and reliable software sys
    - Stay current with emerging technologies by following tech blogs, attending conferences, and participating in online communities.
    - Continuously experiment with new tools and frameworks to broaden your expertise.
 
+read more about the sample use cases here [use-cases-link](./sample-use-case.md)
+
 Remember that mastering modern system design is an ongoing journey. Keep building practical projects, collaborating with peers, and staying curious about evolving technologies to become proficient in designing and building robust and scalable systems.

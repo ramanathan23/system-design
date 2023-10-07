@@ -7,11 +7,10 @@ include:
   - api-design-and-graphql.md        
   - monitoring-observability.md
   - chaos-engineering.md             
-  - readme.md
   - ci-cd.md                         
   - real-time-communication.md
   - cloud-native-services.md         
-  - roadmap.md
+  - index.md
   - _config.yml                      
   - sample-use-case.md
   - database-technologies.md         
