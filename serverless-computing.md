@@ -50,18 +50,7 @@ To translate Serverless Computing into reality for this use case, contemporary t
 
 - **API Gateway**: An API gateway might be used to expose serverless functions as APIs, facilitating communication with the front-end application.
 
-## 3. Exploring the Tradeoffs in the Use Case
-
-### Navigating Challenges and Tradeoffs
-The utilization of Serverless Computing in the Image Processing Pipeline introduces specific challenges and trade-offs:
-
-- **Cold Start Latency**: Serverless functions may have cold start times, leading to slight delays in processing, especially for functions that have been idle.
-
-- **Resource Limits**: Serverless functions have resource limitations, such as execution time and memory, which may affect the processing of very large images or complex tasks.
-
-- **Vendor Lock-In**: Using a specific cloud provider's serverless offering can lead to vendor lock-in, potentially limiting portability across different cloud environments.
-
-## 4. Evaluating the Pros and Cons of the Concept
+## 3. Evaluating the Pros and Cons of the Concept
 
 ### Weighing Advantages and Disadvantages
 Serverless Computing offers several compelling advantages:
@@ -80,7 +69,7 @@ Nonetheless, this concept is not without its trade-offs:
 
 - **Vendor-Specific Features**: Using a specific cloud provider's serverless offering may limit portability and require adaptation if migrating to another provider.
 
-## 5. Further Resources for Deepening Your Understanding
+## 4. Further Resources for Deepening Your Understanding
 
 ### Embarking on Further Exploration
 To delve deeper into the realm of Serverless Computing and related technologies, consider exploring the following valuable resources:
