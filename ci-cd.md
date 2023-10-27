@@ -50,7 +50,7 @@ To put CI/CD into practice for SaaS development, a combination of contemporary t
 
 - **Cloud Services**: Cloud platforms like AWS or Azure are leveraged for scalable infrastructure. These cloud services provide the flexibility to scale resources based on demand, making them suitable for SaaS applications that may experience fluctuating workloads.
 
-## 4. Further Resources for Deepening Your Understanding
+## 2. Further Resources for Deepening Your Understanding
 
 ### Embarking on Further Exploration
 

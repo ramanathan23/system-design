@@ -54,7 +54,7 @@ The implementation of Chaos Engineering in Cloud Infrastructure Resilience invol
 
 - **Automation**: Infrastructure as Code (IaC) and automation scripts are used to quickly restore and repair infrastructure after chaos experiments. This automation ensures a swift recovery process.
 
-## 4. Further Resources for Deepening Your Understanding
+## 3. Further Resources for Deepening Your Understanding
 
 ### Embarking on Further Exploration
 

@@ -50,7 +50,7 @@ In this real-world use case, the E-health Application harnesses cloud-native ser
 
 - **Monitoring and Logging**: The application is equipped with Amazon CloudWatch for monitoring its performance and health. This integration offers comprehensive insights into resource utilization, errors, and other critical metrics.
 
-## 4. Evaluating the Pros and Cons of Cloud-Native Services
+## 3. Evaluating the Pros and Cons of Cloud-Native Services
 
 ### Weighing Advantages and Disadvantages
 
@@ -74,7 +74,7 @@ However, this approach also comes with its share of challenges:
 
 - **Security and Compliance Challenges**: Ensuring the security and compliance of sensitive data in the cloud, particularly in regulated industries like healthcare, can be complex and requires robust security measures and adherence to compliance standards.
 
-## 5. Further Resources for Deepening Your Understanding
+## 4. Further Resources for Deepening Your Understanding
 
 ### Embarking on Further Exploration
 
